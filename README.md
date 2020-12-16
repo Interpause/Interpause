@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Will be updated to be a one para elab after I clean up the rest of my repos. Also will change my profile desc. Probably.
+
 <!--
 **Interpause/interpause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
