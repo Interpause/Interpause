@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### (actually now)
+
+I'm currently serving National Service and hence have gone on a coding hiatus. But I will be back soon.
+
+
+#### (like 4 months ago)
+
 I'm currently working on a personal site dedicated to boasting about myself, and in the process, I have been learning about ReactJS, even getting sidetracked into making a component library.
 
 I enjoy coding a lot, when I get into the flow, its easy for me to lose track of time. But being indecisive and often procrastinating, I have ended up learning about many different fields of code and gotten decent at quite a few of them.
