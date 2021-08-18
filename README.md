@@ -2,8 +2,13 @@
 
 #### (actually now)
 
-I'm currently serving National Service and hence have gone on a coding hiatus. But I will be back soon.
-
+Now that I have adjusted to army life (tm), here are my current priorities:
+1. Rewrite MetaTTT using React, Capacitor & Socket.io (preparation for next project)
+2. Start blogging on Medium (i.e. how to create a turn-based game with redo/undo)
+3. Begin brainstorming game mechanics for a game I have in mind (prepared for by rewriting metaTTT)
+4. Rewrite interpause-components to actually be installable (using Bit)
+5. Finish <https://interpause.dev> using interpause-components
+5. Start competing in Devpost & Kaggle Hackathons
 
 #### (like 4 months ago)
 
