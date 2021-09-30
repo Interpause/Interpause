@@ -10,6 +10,8 @@ Now that I have adjusted to army life (tm), here are my current priorities:
 5. Finish <https://interpause.dev> using interpause-components
 5. Start competing in Devpost & Kaggle Hackathons
 
+I have also mastered the art of coding on a phone (using <https://gitpod.io> and heavily customized editor themes). This allows me to code even while stuck in camp. Nonetheless, the task of writing metaTTT but with scalability in mind was harder than initially thought. Should be done in a month though.
+
 #### (like 4 months ago)
 
 I'm currently working on a personal site dedicated to boasting about myself, and in the process, I have been learning about ReactJS, even getting sidetracked into making a component library.
