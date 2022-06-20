@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Yes empty README till I decide better content.
+Yes empty README till I decide better content. The fact I use Gentoo as my daily driver might reveal something about me. Rebranding coming soon (in 2023)...
 <!--
 **Interpause/interpause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
