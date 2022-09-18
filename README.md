@@ -20,7 +20,7 @@ _**Number of Unused ESP8266s in room**_: ![Expressif](https://img.shields.io/bad
 
 _(Free Preset badges from <https://github.com/alexandresanlim/Badges4-README.md-Profile>)_
 
-Email me at: <hyphen@interpause.dev>. I am currently researching chromium extensions in my free time, in particularly tree-style tab managers. So far, I've been using Tabs Outliner and think it would be the best one if the keybinds were paywalled.
+Email me at: <hyphen@interpause.dev>. I am currently researching chromium extensions in my free time, in particularly tree-style tab managers. So far, I've been using Tabs Outliner and think it would be the best one if the keybinds weren't paywalled.
 
 Say, where do people get all those pretty Github statistics from?
 
