@@ -24,10 +24,9 @@ Email me at: <hyphen@interpause.dev>
 
 Say, where do people get all those pretty Github statistics from?
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=interpause&theme=dracula)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=interpause&theme=dracula)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=interpause&theme=dracula) ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=interpause&theme=dracula)
+
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=interpause&theme=dracula)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=interpause&theme=dracula)
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=interpause&theme=dracula)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=interpause)
 
