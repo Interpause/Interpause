@@ -4,7 +4,7 @@ Colorful readme is very funny (and outdated). **Resume**: <https://interpause.de
 
 Anyways, here's my stack (the parts that aren't rusty yet):
 
-Daily Drivers: ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white) (KWin + [Bismuth](https://github.com/Bismuth-Forge/bismuth))  ![ObsidianMD](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) ![laptop](https://img.shields.io/badge/AMD%20Ryzen_9_5900HX-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+Daily Drivers: ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white) (KWin + [Bismuth](https://github.com/Interpause/bismuth))  ![ObsidianMD](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) ![laptop](https://img.shields.io/badge/AMD%20Ryzen_9_5900HX-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 Coding: ![VSCode](https://img.shields.io/badge/VSCodeVim-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white) ![Starship.rs](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white) 
 
@@ -20,7 +20,7 @@ _**Number of Unused ESP8266s in room**_: ![Expressif](https://img.shields.io/bad
 
 _(Free Preset badges from <https://github.com/alexandresanlim/Badges4-README.md-Profile>)_
 
-Email me at: <hyphen@interpause.dev>. I am currently researching chromium extensions in my free time, in particularly tree-style tab managers. So far, I've been using Tabs Outliner and think it would be the best one if the keybinds weren't paywalled.
+Email me at: <hyphen@interpause.dev>. I am currently messing around in my free time, when I have any.
 
 Say, where do people get all those pretty Github statistics from?
 
