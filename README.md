@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-~Yes empty README till I decide better content.~ **Rebranding coming soon...**
+Colorful readme is very funny (and outdated). **Resume**: <https://interpause.dev/resume>
 
 Anyways, here's my stack (the parts that aren't rusty yet):
 
